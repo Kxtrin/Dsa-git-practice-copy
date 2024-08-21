@@ -54,7 +54,7 @@ resource function get ViewProduct/[string id]()returns Product {
    Product ViewPro = productTable.get(id);
    return ViewPro;
 }
-
+Fusek
 
 }
 
