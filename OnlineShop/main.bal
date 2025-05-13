@@ -8,7 +8,7 @@ md,
 lg,
 xl
 }
-
+//THIS IS KANZI
 type Product record {
     readonly string id;
     string name;
